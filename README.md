@@ -5,7 +5,7 @@
 #### By _**Olha Wysocky**_
 
 ## Description
-_This is a website to track what given triangle is._
+_This is a program to track what given triangle is._
 
 ### Specs
 | Behavior - Plain English | Input | Output |
