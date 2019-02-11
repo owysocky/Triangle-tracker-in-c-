@@ -52,7 +52,7 @@ namespace TriangleTracker
               Console.WriteLine("Thank you for your time!");
             }
         } else if(sideOne!=sideTwo && sideOne!=sideThree){
-          Console.WriteLine("This is SCALENNE triangle! Want to check another triangle? ['Y' for yes, 'Enter' for no]");
+          Console.WriteLine("This is SCALENE triangle! Want to check another triangle? ['Y' for yes, 'Enter' for no]");
           string finishedAnswer = Console.ReadLine();
             if (finishedAnswer == "Y" || finishedAnswer == "y")
             {
