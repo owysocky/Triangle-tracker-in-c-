@@ -5,7 +5,6 @@
 #### By _**Olha Wysocky**_
 
 ## Description
-
 _This is a website to track what given triangle is._
 
 ### Specs
@@ -18,6 +17,9 @@ _This is a website to track what given triangle is._
 | **Program responds if you want to continue after calculations are done** | User input: y | Output: "WELCOME TO TRIANGLE TRACKER!"|
 | **Program responds if you want to continue after calculations are done** | User input: Enter | Output: "Thank you for your time!"|
 
+## Known Bugs
+
+_No error handling._
 
 ## Setup instructions
 * _On GitHub, navigate to the main page of the repository._
