@@ -16,6 +16,7 @@ _This is a website to track what given triangle is._
 | **Program is checking if no sides are equal** | User input: 4,5,6 | Output: "This is SCALENE triangle!"|
 | **Program responds if given numbers will not make a triangle** | User input: 4,40,1 | Output: "This is not a triangle!"|
 | **Program responds if you want to continue after calculations are done** | User input: y | Output: "WELCOME TO TRIANGLE TRACKER!"|
+| **Program responds if you want to continue after calculations are done** | User input: Enter | Output: "Thank you for your time!"|
 
 
 ## Setup instructions
